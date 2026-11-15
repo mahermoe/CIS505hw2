@@ -1,0 +1,9 @@
+Letter | Frequency | Huffman Code
+----------------------------------
+A        10          010
+B        15          011
+C        30          11
+D        16          00
+E        29          10
+
+Average Code Length: 2.25

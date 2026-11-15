@@ -1,0 +1,10 @@
+Original List: 38 27 43 3 9 82 10 
+Sorted List: 3 9 10 27 38 43 82 
+Total Recursive Calls: 13
+Execution Time: 0.00000580 seconds
+Sorting Correct: Yes
+Testing with Various Sizes: 
+==============================
+Size: 1000, Recursive Calls: 1999, Execution Time: 0.00047620 seconds
+Size: 5000, Recursive Calls: 9999, Execution Time: 0.00262320 seconds
+Size: 10000, Recursive Calls: 19999, Execution Time: 0.00456600 seconds

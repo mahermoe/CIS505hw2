@@ -1,0 +1,10 @@
+Dynamic Programming Table: 
+       0 1 2 3 4 5 6 7 8 9 10 
+Item1: 0 0 20 20 20 20 20 20 20 20 20 
+Item2: 0 0 20 30 30 50 50 50 50 50 50 
+Item3: 0 0 20 30 30 65 65 85 95 95 115 
+Item4: 0 0 20 30 30 65 65 85 95 95 115 
+
+Maximum Value: 115
+Selected Items: Item3 Item2 Item1 
+Total Weight: 10
